@@ -9,8 +9,6 @@ This will have regular updates, since, I want to add more useful & safe function
 
 The sourcecode will not be available, since is the one from @vncsms.
 
-This was made for Gameforge Metin2, but you can use it for any Metin2 that has this fishing system.
-
 ## How to run?
 
 1. Download the repository.
@@ -18,7 +16,9 @@ This was made for Gameforge Metin2, but you can use it for any Metin2 that has t
 3. Open METIN2 with 800x800 resolution
 4. Put the fishing skill in 1st slot, and the baits in 2nd one.
 5. Go to "Fishbot" tab and press start.
-That's it.
 
+That's it.
+ 
+As I said, check @vncsms repository if you get in troubles.
 
 
